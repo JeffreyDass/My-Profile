@@ -1,0 +1,29 @@
+.navlink {
+  color: white !important;
+}
+
+table,
+tr,
+td,
+th {
+  border: 3px solid black;
+  padding: 10px;
+  width: 500px;
+}
+
+.jumbotron {
+  margin-bottom: 0;
+}
+
+#about {
+  background-color: gray;
+}
+
+#hobbies {
+  background-color: lightgray;
+}
+
+.text-center {
+  font-weight: bold;
+  font-size: larger;
+}
